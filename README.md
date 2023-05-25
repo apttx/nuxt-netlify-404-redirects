@@ -1,0 +1,1 @@
+# nuxt-netlify-404-redirects
